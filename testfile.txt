@@ -1,0 +1,4 @@
+This is a file
+to work with
+for git
+and github
